@@ -1,10 +1,11 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class NPC : MonoBehaviour
+public class NPC : MonoBehaviour, IDamageble
 {
+    [SerializeField] private ParticleSystem particle;
     public List<Transform> checkpoints;
     public NavMeshAgent agent;
 
@@ -14,6 +15,11 @@ public class NPC : MonoBehaviour
     [HideInInspector] public Transform player;
 
     private Animator animator;
+
+    public void ApllyDamage(float value)
+    {
+       particle.Play();//когда получаем урон, обращаемся к частицам!
+    }
 
     private void Awake()
     {
