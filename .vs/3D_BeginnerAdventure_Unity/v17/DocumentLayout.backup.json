@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\scripts\\shootsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\huntbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\huntbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\idlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\idlebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\runbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\runbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\agenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\agenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\shootsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\sceneitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\idamageble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\idamageble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\interactsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 15,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HuntBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\HuntBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\HuntBehaviour.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\HuntBehaviour.cs",
+              "RelativeToolTip": "Assets\\HuntBehaviour.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:39:52.948Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -82,20 +123,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RunBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\RunBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\RunBehaviour.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\RunBehaviour.cs",
+              "RelativeToolTip": "Assets\\RunBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:13:48.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdleBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\IdleBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\IdleBehaviour.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\IdleBehaviour.cs",
+              "RelativeToolTip": "Assets\\IdleBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:00:10.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:54:44.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\AgentTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AgentTest.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\AgentTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AgentTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:01:44.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:39:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDamageble.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\IDamageble.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IDamageble.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\IDamageble.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IDamageble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:39:11.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ShootSystem.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\ShootSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ShootSystem.cs",
               "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\ShootSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\ShootSystem.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T09:28:39.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T09:28:39.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Portal.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\Portal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portal.cs",
@@ -107,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "InteractSystem.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\InteractSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractSystem.cs",
@@ -119,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "IInteractable.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\IInteractable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IInteractable.cs",
@@ -131,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SceneItem.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\SceneItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneItem.cs",
