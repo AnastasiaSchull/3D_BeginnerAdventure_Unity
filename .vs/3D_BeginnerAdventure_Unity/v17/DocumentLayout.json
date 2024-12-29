@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -174,8 +174,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ItemObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T21:08:39.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T21:08:39.219Z"
             },
             {
               "$type": "Document",
@@ -200,8 +199,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T20:49:10.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T20:49:10.081Z"
             },
             {
               "$type": "Document",
@@ -213,8 +211,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Cell.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T20:38:55.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T20:38:55.417Z"
             },
             {
               "$type": "Document",
@@ -226,8 +223,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ItemData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T20:19:15.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T20:19:15.265Z"
             },
             {
               "$type": "Document",
@@ -239,8 +235,7 @@
               "RelativeToolTip": "Assets\\Scripts\\InventoryUI.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAYwAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T17:42:33.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T17:42:33.09Z"
             },
             {
               "$type": "Document",
