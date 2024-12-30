@@ -12,7 +12,6 @@ public class PatrolBetweenPoints : MonoBehaviour
     private bool waiting = false;
     private Animator animator;
 
-
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
@@ -22,18 +21,12 @@ public class PatrolBetweenPoints : MonoBehaviour
         {
             return;
         }
-
         MoveToNextCheckpoint();
     }
 
 
     private void Update()
-
     {
-        // анимацию синхронизируем с движением
-        float speed = agent.velocity.magnitude;
-        animator.SetFloat("Speed", speed); 
-
         if (agent.remainingDistance <= agent.stoppingDistance && !waiting)
         {
             Debug.Log("Reached checkpoint, waiting...");
