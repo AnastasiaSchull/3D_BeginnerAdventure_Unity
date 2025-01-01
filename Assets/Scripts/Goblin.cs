@@ -16,6 +16,8 @@ public class Goblin : MonoBehaviour, IDamageble
     [SerializeField] private AudioClip deathSound; 
     private AudioSource audioSource;
 
+    private Transform target; // цель
+
     private Transform player;
     private Animator animator;
     private float lastAttackTime = 0f;
@@ -28,11 +30,22 @@ public class Goblin : MonoBehaviour, IDamageble
         audioSource = GetComponent<AudioSource>();
     }
 
+    public void SetTarget(Transform newTarget)
+    {
+        target = newTarget;
+    }
+
     private void Update()
     {
         if (isDead) return;
 
         float distanceToPlayer = Vector3.Distance(transform.position, player.position);
+       
+        if (target != null)
+        {
+            agent.SetDestination(target.position);
+        }
+       
 
         if (distanceToPlayer <= huntStartDistance)
         {
@@ -54,13 +67,14 @@ public class Goblin : MonoBehaviour, IDamageble
         else
         {
             // останавливаем гоблина, если игрок далеко
-            animator.SetBool("isHunting", false);
-            agent.SetDestination(transform.position);
+            //animator.SetBool("isHunting", false);
+            //agent.SetDestination(transform.position);
 
             if (audioSource.isPlaying)
             {
-                audioSource.Stop(); 
+                audioSource.Stop();
             }
+            MoveToMainTarget();
         }
     }
 
@@ -154,5 +168,20 @@ public class Goblin : MonoBehaviour, IDamageble
         yield return new WaitForSeconds(5f);       
         Destroy(gameObject);
     }
-   
+
+    private void MoveToMainTarget()
+    {
+        animator.SetBool("isHunting", true);
+
+        if (target != null)
+        {
+            agent.SetDestination(target.position); //  к основной цели
+        }
+
+        if (!audioSource.isPlaying)
+        {
+           // PlaySound(runSound); // звук бега
+        }
+    }
+
 }
