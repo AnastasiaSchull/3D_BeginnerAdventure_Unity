@@ -25,7 +25,7 @@ public class GameOverCondition : MonoBehaviour
         {
             if (collider.CompareTag("Goblin")) // проверяем, есть ли гоблины
             {
-                Debug.Log($"Goblin detected: {collider.gameObject.name}");
+               // Debug.Log($"Goblin detected: {collider.gameObject.name}");
                 goblinCount++;
             }
         }

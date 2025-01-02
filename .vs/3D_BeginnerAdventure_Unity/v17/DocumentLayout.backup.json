@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|c:\\users\\anastasia\\3d_beginneradventure_unity\\assets\\scripts\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\goblinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goblinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\goblinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goblinspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37DC32EE-C2C8-4B24-EE8C-0B0DE72B550E}|Assembly-CSharp.csproj|C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -200,7 +200,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverCondition.cs",
               "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\GameOverCondition.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOverCondition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAA1wA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:02:13.95Z",
               "EditorCaption": ""
@@ -208,18 +208,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GoblinSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\GoblinSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GoblinSpawner.cs",
-              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\GoblinSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GoblinSpawner.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:15:05.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -227,7 +215,8 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T22:59:59.289Z"
+              "WhenOpened": "2024-12-30T22:59:59.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -243,15 +232,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Goblin.cs",
               "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\Goblin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Goblin.cs",
               "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\Goblin.cs",
               "RelativeToolTip": "Assets\\Scripts\\Goblin.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwLEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwCIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T14:31:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoblinSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\GoblinSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoblinSpawner.cs",
+              "ToolTip": "C:\\Users\\Anastasia\\3D_BeginnerAdventure_Unity\\Assets\\Scripts\\GoblinSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoblinSpawner.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:15:05.915Z",
               "EditorCaption": ""
             },
             {
