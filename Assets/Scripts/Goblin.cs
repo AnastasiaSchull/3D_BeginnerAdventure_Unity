@@ -6,7 +6,7 @@ public class Goblin : MonoBehaviour, IDamageble
 {
     [SerializeField] private ParticleSystem damageEffect; 
     [SerializeField] private NavMeshAgent agent; 
-    [SerializeField] private float health = 100f; 
+    [SerializeField] private float health = 50f; 
     [SerializeField] private float huntStartDistance = 10f; 
     [SerializeField] private float attackDistance = 2f; 
     [SerializeField] private float attackCooldown = 1f; // задержка между атаками

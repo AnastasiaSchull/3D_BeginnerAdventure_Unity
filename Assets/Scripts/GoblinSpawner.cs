@@ -5,8 +5,8 @@ public class GoblinSpawner : MonoBehaviour
 {
     [SerializeField] private GameObject goblinPrefab; 
     [SerializeField] private Transform target; // цель 
-    [SerializeField] private float spawnInterval = 30f; 
-    [SerializeField] private int maxGoblinCount = 50; 
+    [SerializeField] private float spawnInterval = 5f; 
+    [SerializeField] private int maxGoblinCount = 60; 
     private int currentGoblinCount = 0;
 
     private void Start()

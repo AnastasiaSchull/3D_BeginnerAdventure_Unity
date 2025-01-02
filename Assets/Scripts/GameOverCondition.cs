@@ -7,7 +7,8 @@ public class GameOverCondition : MonoBehaviour
     [SerializeField] private Transform target; 
     [SerializeField] private float checkRadius = 100f; 
     [SerializeField] private int maxGoblins = 5; 
-    [SerializeField] private GameObject gameOverPanel; 
+    [SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private GameTimer gameTimer;
 
     private void Update()
     {
@@ -32,18 +33,19 @@ public class GameOverCondition : MonoBehaviour
 
         // если гоблинов больше допустимого количества, завершаем игру
         if (goblinCount > maxGoblins)
-        {           
-            EndGame();
+        {
+            //EndGame();
+            gameTimer.LoseGame();
         }
     }
 
-    private void EndGame()
-    {
-        Debug.Log("Game Over");
-        if (gameOverPanel != null)
-        {
-            gameOverPanel.SetActive(true); // показываем панель Game Over 2
-        }
-        Time.timeScale = 0; // останавливаем игру
-    }
+    //private void EndGame()
+    //{
+    //    Debug.Log("Game Over");
+    //    if (gameOverPanel != null)
+    //    {
+    //        gameOverPanel.SetActive(true); // показываем панель Game Over 2
+    //    }
+    //    Time.timeScale = 0; // останавливаем игру
+    //}
 }
